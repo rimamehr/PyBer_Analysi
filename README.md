@@ -7,3 +7,8 @@ As a new hire (data analyst) at PyBer, a ride-sharing app company valued at $2.3
 <p align="left">
   <img src="/Images/Pyber_summarypng.png">
   </p>
+
+
+<p align="left">
+  <img src="/analysis/PyBer_fare_summary.png">
+  </p>
