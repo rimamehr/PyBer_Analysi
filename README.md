@@ -6,7 +6,9 @@ As a new hire (data analyst) at PyBer, a ride-sharing app company valued at $2.3
 ## Results of the Pyber Analysis:
 
 ### Summary Dataframe
-    - In our summary dataframe below by city type, we can see that the Rural cities have less number of rides and drivers compared to the suburban and Urban cities but that lets the drivers charge a higher price per ride per drive in comparison to the Urband and Suburban cities.
+
+In our summary dataframe below by city type, we can see that the Rural cities have less number of rides and drivers compared to the suburban and Urban cities but that lets the drivers charge a higher price per ride per drive in comparison to the Urband and Suburban cities.
+
 <p align="left">
   <img src="/Images/Pyber_summarypng.png">
   </p>
